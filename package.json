@@ -1,0 +1,16 @@
+{
+	"name": "@tharunoptimus/crypto-string",
+	"version": "1.0.2",
+	"description": "Generate crypto random string that can be used for chat rooms and other id specific use case",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tharunoptimus/crypto-string.git"
+	},
+	"publishConfig": {
+		"registry":"https://npm.pkg.github.com"
+	},
+	"keywords": [
+		"crypto",
+		"string"
+	]
+}
